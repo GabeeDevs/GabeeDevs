@@ -15,7 +15,7 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/ramos_gabriell_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.instagram.com/ramos_gabriell_/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/gabrielldev/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
 
  
